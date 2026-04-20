@@ -1,0 +1,12 @@
+{
+  "name": "clase-5",
+  "version": "1.0.0",
+  "description": "primer proyecto con node init",
+  "license": "ISC",
+  "author": "pablo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
